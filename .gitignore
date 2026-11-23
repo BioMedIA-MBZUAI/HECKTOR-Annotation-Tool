@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+hecktor_env/
+.venv/
+venv/
+.DS_Store
+*.log
+# never commit patient data
+*.nii
+*.nii.gz
+*.mha
+*.csv
+data/

@@ -1,0 +1,7 @@
+# HECKTOR Viewer Requirements
+numpy>=1.21.0
+scipy>=1.7.0
+scikit-image>=0.18.0
+napari[all]>=0.4.15
+PyQt5>=5.15.0
+nibabel>=5.0.0
